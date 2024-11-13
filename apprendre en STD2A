@@ -1,6 +1,21 @@
 #Les composants du problème
 
--Objets (mobiliers scolaire et matériel de dessin )
--Acteurs (parents,  profs et élèves)
--Infrastructures (bâtiments, salle de classe)
--Services (délégué, CVL et outils numériques)
+-Objets 
+mobiliers scolaire
+matériel de dessin 
+
+-Acteurs 
+parents
+profs
+élèves
+
+-Infrastructures
+bâtiments
+salle de classe
+
+-Services
+délégué
+CVL
+administration
+CDI
+outils numériques
